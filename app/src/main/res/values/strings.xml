@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Image Services</string>
+    <string name="business_name">Image Services S.r.l.</string>
+    <string name="address">53 Grigorescu street, Cluj-Napoca, Romania</string>
+    <string name="phone">+4 0742 137827</string>
+    <string name="email_address">office@imageservices.ro</string>
+    <string name="website">www.imageservices.ro</string>
+    <string name="bussines_logo_description">Logo of Image Services</string>
+</resources>
